@@ -1,5 +1,5 @@
 {-# LANGUAGE OverloadedStrings #-}
-module Tests where
+module Main where
 
 import Test.Hspec
 import Test.QuickCheck

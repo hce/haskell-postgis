@@ -42,9 +42,14 @@ test-suite Test
   type: 
       exitcode-stdio-1.0
   hs-source-dirs:
-      src, tests  
+      tests  
   main-is: Tests.hs
   build-depends:
       base >= 4.4  
+    , bytestring >= 0.10
+    , cpu >= 0.1.2
+    , haskell-postgis
     , hspec >= 2.1
+    , QuickCheck
+    , vector >= 0.10
 
