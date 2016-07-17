@@ -2,14 +2,14 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                haskell-postgis
-version:             0.1.0.1
+version:             0.1.0.2
 synopsis:            A haskell library for PostGIS geometry types.
 -- description:         
 license:             MIT
 license-file:        LICENSE
-author:              Peter
-maintainer:          pfrance@gmail.com
--- copyright:           
+author:              Peter <pfrance@gmail.com>
+maintainer:          hc@hcesperer.org
+copyright:           Peter <pfrance@gmail.com>
 category:            Database
 build-type:          Simple
 -- extra-source-files:  
